@@ -1,5 +1,5 @@
-com/dhyun/book/springboot/domain/posts/PostsRepository.java
- com.dhyun.book.springboot.domain.posts.PostsRepository
+com/dhyun/book/springboot/Application.java
+ com.dhyun.book.springboot.Application
 com/dhyun/book/springboot/web/HelloController.java
  com.dhyun.book.springboot.web.HelloController
 com/dhyun/book/springboot/web/dto/HelloResponseDto.java
@@ -14,14 +14,16 @@ com/dhyun/book/springboot/web/dto/PostsSaveRequestDto.java
  com.dhyun.book.springboot.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
 com/dhyun/book/springboot/web/dto/PostsResponseDto.java
  com.dhyun.book.springboot.web.dto.PostsResponseDto
-com/dhyun/book/springboot/web/PostsApiController.java
- com.dhyun.book.springboot.web.PostsApiController
 com/dhyun/book/springboot/domain/posts/Posts.java
  com.dhyun.book.springboot.domain.posts.Posts
  com.dhyun.book.springboot.domain.posts.Posts$PostsBuilder
+com/dhyun/book/springboot/web/dto/PostsListResponseDto.java
+ com.dhyun.book.springboot.web.dto.PostsListResponseDto
+com/dhyun/book/springboot/domain/posts/PostsRepository.java
+ com.dhyun.book.springboot.domain.posts.PostsRepository
+com/dhyun/book/springboot/web/PostsApiController.java
+ com.dhyun.book.springboot.web.PostsApiController
 com/dhyun/book/springboot/service/PostsService.java
  com.dhyun.book.springboot.service.PostsService
-com/dhyun/book/springboot/Application.java
- com.dhyun.book.springboot.Application
 com/dhyun/book/springboot/web/IndexController.java
  com.dhyun.book.springboot.web.IndexController
