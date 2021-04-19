@@ -6,3 +6,5 @@ com/dhyun/book/springboot/web/domain/posts/PostsRepositoryTest.java
  com.dhyun.book.springboot.web.domain.posts.PostsRepositoryTest
 com/dhyun/book/springboot/web/PostsApiControllerTest.java
  com.dhyun.book.springboot.web.PostsApiControllerTest
+com/dhyun/book/springboot/web/IndexControllerTest.java
+ com.dhyun.book.springboot.web.IndexControllerTest

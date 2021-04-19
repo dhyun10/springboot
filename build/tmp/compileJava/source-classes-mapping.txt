@@ -23,3 +23,5 @@ com/dhyun/book/springboot/service/PostsService.java
  com.dhyun.book.springboot.service.PostsService
 com/dhyun/book/springboot/Application.java
  com.dhyun.book.springboot.Application
+com/dhyun/book/springboot/web/IndexController.java
+ com.dhyun.book.springboot.web.IndexController
