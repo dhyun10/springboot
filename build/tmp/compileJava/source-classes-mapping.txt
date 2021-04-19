@@ -21,9 +21,9 @@ com/dhyun/book/springboot/web/dto/PostsListResponseDto.java
  com.dhyun.book.springboot.web.dto.PostsListResponseDto
 com/dhyun/book/springboot/domain/posts/PostsRepository.java
  com.dhyun.book.springboot.domain.posts.PostsRepository
+com/dhyun/book/springboot/web/IndexController.java
+ com.dhyun.book.springboot.web.IndexController
 com/dhyun/book/springboot/web/PostsApiController.java
  com.dhyun.book.springboot.web.PostsApiController
 com/dhyun/book/springboot/service/PostsService.java
  com.dhyun.book.springboot.service.PostsService
-com/dhyun/book/springboot/web/IndexController.java
- com.dhyun.book.springboot.web.IndexController
