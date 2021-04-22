@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="JunitOrderTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-04-22T01:36:44" hostname="DESKTOP-3SOV646" time="0.004">
+  <properties/>
+  <testcase name="test1" classname="JunitOrderTest" time="0.003"/>
+  <testcase name="test2" classname="JunitOrderTest" time="0.0"/>
+  <system-out><![CDATA[첫번째로 실행!
+두번째로 실행!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
