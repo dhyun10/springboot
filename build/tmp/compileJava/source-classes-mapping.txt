@@ -2,8 +2,9 @@ com/dhyun/book/springboot/web/PostsApiController.java
  com.dhyun.book.springboot.web.PostsApiController
 com/dhyun/book/springboot/config/WebConfig.java
  com.dhyun.book.springboot.config.WebConfig
-com/dhyun/book/springboot/Application.java
- com.dhyun.book.springboot.Application
+com/dhyun/book/springboot/config/auth/dto/OAuthAttributes.java
+ com.dhyun.book.springboot.config.auth.dto.OAuthAttributes
+ com.dhyun.book.springboot.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
 com/dhyun/book/springboot/web/HelloController.java
  com.dhyun.book.springboot.web.HelloController
 com/dhyun/book/springboot/config/auth/SecurityConfig.java
@@ -12,11 +13,10 @@ com/dhyun/book/springboot/domain/BaseTimeEntity.java
  com.dhyun.book.springboot.domain.BaseTimeEntity
 com/dhyun/book/springboot/web/IndexController.java
  com.dhyun.book.springboot.web.IndexController
-com/dhyun/book/springboot/config/auth/CustomOAuth2UserService.java
- com.dhyun.book.springboot.config.auth.CustomOAuth2UserService
-com/dhyun/book/springboot/config/auth/dto/OAuthAttributes.java
- com.dhyun.book.springboot.config.auth.dto.OAuthAttributes
- com.dhyun.book.springboot.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
+com/dhyun/book/springboot/web/dto/PostsListResponseDto.java
+ com.dhyun.book.springboot.web.dto.PostsListResponseDto
+com/dhyun/book/springboot/web/dto/HelloResponseDto.java
+ com.dhyun.book.springboot.web.dto.HelloResponseDto
 com/dhyun/book/springboot/config/auth/dto/SessionUser.java
  com.dhyun.book.springboot.config.auth.dto.SessionUser
 com/dhyun/book/springboot/domain/posts/PostsRepository.java
@@ -45,7 +45,9 @@ com/dhyun/book/springboot/service/PostsService.java
  com.dhyun.book.springboot.service.PostsService
 com/dhyun/book/springboot/domain/user/UserRepository.java
  com.dhyun.book.springboot.domain.user.UserRepository
-com/dhyun/book/springboot/web/dto/HelloResponseDto.java
- com.dhyun.book.springboot.web.dto.HelloResponseDto
-com/dhyun/book/springboot/web/dto/PostsListResponseDto.java
- com.dhyun.book.springboot.web.dto.PostsListResponseDto
+com/dhyun/book/springboot/config/auth/CustomOAuth2UserService.java
+ com.dhyun.book.springboot.config.auth.CustomOAuth2UserService
+com/dhyun/book/springboot/config/JpaConfig.java
+ com.dhyun.book.springboot.config.JpaConfig
+com/dhyun/book/springboot/Application.java
+ com.dhyun.book.springboot.Application

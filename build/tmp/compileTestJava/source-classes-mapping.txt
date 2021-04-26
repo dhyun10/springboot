@@ -2,11 +2,9 @@ com/dhyun/book/springboot/web/HelloControllerTest.java
  com.dhyun.book.springboot.web.HelloControllerTest
 com/dhyun/book/springboot/web/dto/HelloResponseDtoTest.java
  com.dhyun.book.springboot.web.dto.HelloResponseDtoTest
-com/dhyun/book/springboot/web/IndexControllerTest.java
- com.dhyun.book.springboot.web.IndexControllerTest
-JunitOrderTest.java
- JunitOrderTest
 com/dhyun/book/springboot/web/domain/posts/PostsRepositoryTest.java
  com.dhyun.book.springboot.web.domain.posts.PostsRepositoryTest
+com/dhyun/book/springboot/web/IndexControllerTest.java
+ com.dhyun.book.springboot.web.IndexControllerTest
 com/dhyun/book/springboot/web/PostsApiControllerTest.java
  com.dhyun.book.springboot.web.PostsApiControllerTest
